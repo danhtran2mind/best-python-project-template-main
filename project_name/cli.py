@@ -7,7 +7,7 @@ Be creative! do whatever you want!
 - Start a web application
 - Import things from your .base module
 """
-
+import gradio
 
 def main():  # pragma: no cover
     """
